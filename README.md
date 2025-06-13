@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+## <b> [Click here to Play the GAME!!](https://github.com/J-Sowmya-18/memory-matching_game)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
